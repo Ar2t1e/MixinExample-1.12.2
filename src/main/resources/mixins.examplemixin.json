@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.examplemixin.mixin",
+  "refmap": "mixins.examplemixin.refmap.json",
+  "target": "@env(DEFAULT)",
+  "minVersion": "0.7.11",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "entity.EntityMixinTest"
+  ],
+  "client": [],
+  "server": []
+}

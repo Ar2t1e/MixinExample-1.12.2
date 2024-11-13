@@ -1,0 +1,16 @@
+[
+{
+  "modid": "examplemixin",
+  "name": "ExampleMixin",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Ar2t1e"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
